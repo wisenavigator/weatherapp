@@ -1,4 +1,4 @@
-const apiKey = "78b0e547b34cd071ee8e877af8756aaf";
+const apiKey = "";
 
 const geoCodeUrl = `http://api.openweathermap.org/geo/1.0/direct?q=oakville&limit=2&appid=${apiKey}`;
 
